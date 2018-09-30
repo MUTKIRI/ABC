@@ -4,3 +4,8 @@
 - orange
 - mangoes
 - watermelon
+
+## mobiles 
+- samsung
+- nokia
+- lenovo
